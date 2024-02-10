@@ -23,4 +23,4 @@ I just put things together with some tinkering here and there, all thanks go to 
 
 Note: This project is a simple template that I will be using in my later projects. If you wish to use this you may require specific customization to work with your specific ESP32 devices and configurations.
 
-Refer to [**Homespan**](https://github.com/HomeSpan/HomeSpan) for detailed documentation. Or else just create a issue on this repo, I may be able to help.
+Refer to [**Homespan**](https://github.com/HomeSpan/HomeSpan) for detailed documentation. If you have any questions or encounter difficulties, don't hesitate to create an issue on this repository. I'll do my best to help.
